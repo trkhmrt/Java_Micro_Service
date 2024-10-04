@@ -1,0 +1,3 @@
+rootProject.name = 'Micro_Service'
+include 'AuthService'
+
